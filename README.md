@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Minimalist Clean Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=180&section=header&text=Ferry%20Ardiansyah&fontSize=42&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%7C%20Scalable%20Systems%20%26%20Clean%20Architecture&descAlignY=68&descFontSize=16&fontColor=ffffff" width="100%" />
+  <!-- Clean & Validated Minimalist Header -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=180&section=header&text=Ferry%20Ardiansyah&fontSize=42&fontAlignY=42&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Scalable%20Systems%20%E2%80%A2%20Clean%20Architecture&descAlignY=68&descFontSize=16&fontColor=ffffff" width="100%" alt="Ferry Ardiansyah Header" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/ferry-ardiansyah/">
@@ -93,13 +93,15 @@ Software Engineer with a focus on building high-performance full-stack web appli
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ferry23&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ferry23&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="155" />
       </td>
       <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ferry23&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ferry23&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="155" />
       </td>
     </tr>
   </table>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=Ferry23&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
